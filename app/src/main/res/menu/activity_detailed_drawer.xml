@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_profile"
+
+            android:title="Profile" />
+        <item
+            android:id="@+id/privileges"
+
+            android:title="Privileges" />
+        <item
+            android:id="@+id/membership"
+
+            android:title="Membership" />
+        <item
+            android:id="@+id/payment_history"
+
+            android:title="PaymentHistory" />
+        <item
+            android:id="@+id/use_card"
+
+            android:title="Use"/>
+        <item
+            android:id="@+id/pay_dues"
+
+            android:title="Pay Dues"/>
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Help" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Contact Us" />
+        </menu>
+    </item>
+
+</menu>
