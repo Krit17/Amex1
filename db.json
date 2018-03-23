@@ -1,11 +1,12 @@
-[{
- "DeptStores":250
-   "Mobile":300
-  "Apparel":800
-  "Travel":1000
-  "Fuel":1100
-  "Electronics":290
-  "Restaurants":170
+[
+ "Expenditure": {
+ "DeptStores":250,
+   "Mobile":300,
+  "Apparel":800,
+  "Travel":1000,
+  "Fuel":1100,
+  "Electronics":290,
+  "Restaurants":170,
   "Others": 80
 }
 ]
