@@ -1,7 +1,7 @@
 {
   "location": 
     
-      "Gurgaon":[
+      "Gurgaon" :[
       {"type": "Grocery", "name": "ABC" },
       {"type": "Clothing", "name": "XYZ" }
       ],
