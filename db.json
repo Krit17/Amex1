@@ -1,13 +1,11 @@
 {
   "location": [
-    { "loc":"Gurgaon",
-       "Values":[ 
+    { "Gurgaon":[ 
       
       {"type": "Grocery", "name": "ABC" },
       {"type": "Clothing", "name": "XYZ" }
     ]},
-    {"loc":"Noida",
-     "Values":[
+    {"Noida":[
      
        {"type": "Grocery", "name": "RST" },
        {"type": "Grocery", "name": "UVW" }
