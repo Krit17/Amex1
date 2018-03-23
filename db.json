@@ -1,5 +1,5 @@
 [
- "Expenditure": {
+ "Expenditure": [
  "DeptStores":250,
    "Mobile":300,
   "Apparel":800,
@@ -8,5 +8,5 @@
   "Electronics":290,
   "Restaurants":170,
   "Others": 80
-}
+]
 ]
