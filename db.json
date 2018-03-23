@@ -3,7 +3,7 @@
   "location": [
     { "place": "Gurgaon", "type": "Grocery", "name": "ABC" },
     { "place": "Gurgaon", "type": "Clothing", "name": "XYZ" },
-    {  "place": "Noida", "type": "Grocery", "name": "RST" }
+    {  "place": "Noida", "type": "Grocery", "name": "RST" },
       {  "place": "Noida", "type": "Grocery", "name": "UVW" }
    ]
 }
