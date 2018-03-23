@@ -1,6 +1,7 @@
 {
   "location": 
-    { "loc":"Gurgaon",
+    { 
+      "loc":"Gurgaon",
        "val":[
       {"type": "Grocery", "name": "ABC" },
       {"type": "Clothing", "name": "XYZ" }
