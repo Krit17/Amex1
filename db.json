@@ -1,13 +1,29 @@
 {
  "Expenditure": [
-  {"DeptStores":250,
-   "Mobile":300,
-  "Apparel":800,
-  "Travel":1000,
-  "Fuel":1100,
-  "Electronics":290,
-  "Restaurants":170,
-  "Others": 80
+  {"name":"DeptStores",
+   "value":250
+  },
+  {"name":"Mobile",
+  "value":300},
+  {
+  "name":"Apparel",
+  "value":800}
+  ,
+  {"name":"Travel",
+  "value":1000},
+  {
+  "name":"Fuel",
+  "value":1100}
+  ,
+  {"name":"Electronics",
+  "value":290},
+  {
+  "name":"Restaurants",
+  "value":170},
+ 
+  {"name":"Others",
+  "value": 80
+  }
   }
 ]
 }
