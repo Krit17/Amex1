@@ -1,4 +1,4 @@
-[
+{
  "Expenditure": [
  "DeptStores":250,
    "Mobile":300,
@@ -9,4 +9,4 @@
   "Restaurants":170,
   "Others": 80
 ]
-]
+}
